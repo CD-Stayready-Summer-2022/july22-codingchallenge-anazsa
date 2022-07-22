@@ -25,9 +25,4 @@ public class SolutionTest {
         Assertions.assertArrayEquals(expected,actual);
     }
 
-
-
-
-
-
 }
